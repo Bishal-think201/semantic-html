@@ -19,7 +19,7 @@ const OpenGraphPage: NextPageWithLayout = () => {
       </Head>
 
       <Box component={"section"}>
-        <Container maxWidth={false}>Open Graph Image Section</Container>
+        <Container maxWidth={false}>Open Graph Image Section Added</Container>
       </Box>
     </>
   );
