@@ -15,7 +15,7 @@ const OpenGraphPage: NextPageWithLayout = () => {
         <meta property="og:title" content="Open Graph" />
         <meta
           property="og:image"
-          content="https://www.google.com/imgres?q=unsplash%20images&imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1564648351416-3eec9f3e85de%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8a29zdGVubG9zZSUyMGJpbGRlcnxlbnwwfHwwfHx8MA%253D%253D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fkostenlose-bilder&docid=RcDHk8NBnNzczM&tbnid=qw7XuoU20qcqJM&vet=12ahUKEwjtu6bg1cuGAxVPXWwGHfdOCR0QM3oECBQQAA..i&w=1000&h=750&hcb=2&ved=2ahUKEwjtu6bg1cuGAxVPXWwGHfdOCR0QM3oECBQQAA"
+          content="https://images.unsplash.com/photo-1564648351416-3eec9f3e85de?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         />
         <meta property="og:image:type" content="image/jpg" />
         <meta property="og:image:width" content="200" />
