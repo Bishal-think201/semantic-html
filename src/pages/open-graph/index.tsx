@@ -13,10 +13,13 @@ const OpenGraphPage: NextPageWithLayout = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Open Graph" />
-        <meta property="og:image" content="/opengraph-image.jpg" />
+        <meta
+          property="og:image"
+          content="https://www.google.com/imgres?q=unsplash%20images&imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1564648351416-3eec9f3e85de%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8a29zdGVubG9zZSUyMGJpbGRlcnxlbnwwfHwwfHx8MA%253D%253D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fkostenlose-bilder&docid=RcDHk8NBnNzczM&tbnid=qw7XuoU20qcqJM&vet=12ahUKEwjtu6bg1cuGAxVPXWwGHfdOCR0QM3oECBQQAA..i&w=1000&h=750&hcb=2&ved=2ahUKEwjtu6bg1cuGAxVPXWwGHfdOCR0QM3oECBQQAA"
+        />
         <meta property="og:image:type" content="image/jpg" />
-        <meta property="og:image:width" content="200px" />
-        <meta property="og:image:height" content="160px" />
+        <meta property="og:image:width" content="200" />
+        <meta property="og:image:height" content="160" />
         <meta property="og:image:alt" content="About Flowers" />
       </Head>
 
